@@ -1,0 +1,68 @@
+body {
+	background-image: url(o.jpg);
+	background-size: cover;
+	color: whitesmoke;
+	font-family: Georgia;
+}
+
+header {
+	text-align: center;
+	padding: 10px;
+	color: #466365;
+	text-shadow: 2px 2px whitesmoke;
+}
+
+select {
+	color: #466365;
+}
+
+footer {
+	text-shadow: 2px 2px darkslategray;
+}
+
+.container {
+	background-color: #466365;
+	padding: 15px;
+	border-radius: 25px;
+}
+
+.button {
+	background-color: darkslategray;
+	color: whitesmoke;
+	border-radius: 8px;
+}
+
+input[type="text"], input[type="number"] {
+width: 540px; /* Adjust the width here */
+height: 35px; /* Adjust the height here */
+padding: 15px; /* Adds space inside the text box */
+font-size: 12px; /* Adjusts the text size */
+}
+
+input[type="text"], input[type="name"] {
+width: 540px; /* Adjust the width here */
+height: 35px; /* Adjust the height here */
+padding: 15px; /* Adds space inside the text box */
+font-size: 12px; /* Adjusts the text size */
+}
+
+input[type="text"], input[type="tel"] {
+width: 540px; /* Adjust the width here */
+height: 35px; /* Adjust the height here */
+padding: 15px; /* Adds space inside the text box */
+font-size: 12px; /* Adjusts the text size */
+}
+
+input[type="text"], input[type="Email"] {
+width: 540px; /* Adjust the width here */
+height: 35px; /* Adjust the height here */
+padding: 15px; /* Adds space inside the text box */
+font-size: 12px; /* Adjusts the text size */
+}
+
+input[type="text"], input[type="text"] {
+width: 540px; /* Adjust the width here */
+height: 35px; /* Adjust the height here */
+padding: 15px; /* Adds space inside the text box */
+font-size: 12px; /* Adjusts the text size */
+}
